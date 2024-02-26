@@ -1,0 +1,13 @@
+body{
+  background-color: lightgray;
+  padding: 10px;
+  text-align: center;
+}
+body ul{
+  list-style-type: none;
+  display: inline-flex;
+  gap: 30px;
+}
+img{
+  border: 1px solid black;
+}
